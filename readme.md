@@ -1,4 +1,5 @@
-PETER KIMELI | Fullstack Software Developer
+# PETER KIMELI | Fullstack Software Developer
+# Computer Science Professional
 
 Hello and welcome to the code for my personal site! I've made it public so you can get a sense of how I go about as Fullstack Software Developer.
 
