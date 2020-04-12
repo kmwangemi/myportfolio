@@ -11,3 +11,6 @@ Quick rundown of what's being used:
     Icon Fonts
     Build Task for Production
 
+More Information
+
+View my portfolio at https://kimpetertanui.github.io/.
