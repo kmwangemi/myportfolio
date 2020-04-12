@@ -3,7 +3,7 @@
 
 Hello and welcome to the code for my personal site! I've made it public so you can get a sense of how I go about as Fullstack Software Developer.
 
-##CAREER OBJECTIVE
+## CAREER OBJECTIVE
 
 A forward-thinking developer with four years of experience building, integrating, testing,
 and supporting Android applications for mobile and tablet devices on the Android platform
