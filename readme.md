@@ -12,6 +12,7 @@ PHP, Android, Django, Python developer with extensive experience in the layout, 
 and coding of websites specifically in Django and PHP format. Possessing considerable
 knowledge of the development of mobile applications and coding using android
 programming language and MySQL & SQL Server databases.
+https://github.com/kimpetertanui/kimpetertanui.github.io/blob/master/img/rsz_screenshot_from_2020-06-01_17-07-58.png
 
 
 Quick rundown of what's being used:
