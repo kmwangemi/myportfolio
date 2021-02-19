@@ -455,7 +455,7 @@ img.svg{
 	font-family: "Montserrat";
 }
 .arlo_tm_animation_text_word{
-	font-weight: 600;
+	font-weight: 400;
 	line-height: 1;
 	font-family: "Montserrat";
 }
@@ -509,7 +509,7 @@ img.svg{
 	clear: both;
 	float: left;
 	text-align: left;
-	padding-bottom: 100px;
+	padding-bottom: 50px;
 	position: relative;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -521,7 +521,7 @@ img.svg{
 	position: absolute;
 	content: "";
 	width: 6px;
-	height: 72px;
+	height: 52px;
 	background-color: #E3872D;
 	top: 2px;
 }
@@ -530,7 +530,7 @@ img.svg{
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: -.5px;
-	padding-left: 25px;
+	padding-left: 65px;
 	line-height: 1;
 /*	font-style: italic;*/
 }
@@ -635,7 +635,7 @@ img.svg{
 	height: auto;
 	clear: both;
 	float: left;
-	padding-bottom: 122px;
+	padding-bottom: 60px;
 	position: relative;
 	margin-top: -6px;
 	
@@ -692,7 +692,7 @@ img.svg{
 }
 .arlo_tm_about_wrap .leftbox .about_image_wrap img{opacity: 0;}
 .arlo_tm_about_wrap .rightbox{
-	width: 65%;
+	width: 100%;
 	float: right;
 	padding: 0px 0px 0px 65px;
 	
