@@ -454,12 +454,14 @@ img.svg{
 	font-size: 24px;
 	font-family: "Montserrat";
 }
-.arlo_tm_animation_text_word{
+.arlo_tm_animation_text_word {
 	font-weight: 400;
 	line-height: 1;
 	font-family: "Montserrat";
 }
-.arlo_tm_about_wrap .arlo_tm_animation_text_word{color: #E3872D;}
+.arlo_tm_about_wrap .arlo_tm_animation_text_word {
+   color: #E3872D;
+}
 .arlo_tm_arrow_wrap{
 	position: absolute;
 	left: 50%;
